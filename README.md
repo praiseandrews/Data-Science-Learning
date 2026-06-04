@@ -22,6 +22,8 @@ Learning Python fundamentals:
 
 ### 02_NumPy_Practice
 
+working with large, multi-dimensional arrays and matrices
+
 Arrays
 
 Learning how to store and work with multiple values efficiently using NumPy arrays.
@@ -42,11 +44,21 @@ Learning how to calculate summary statistics such as mean, median, minimum, maxi
 
 Learning data analysis with Pandas:
 
-* DataFrames
-* Data Cleaning
-* Filtering and Sorting
-* Grouping and Aggregation
+DataFrames
 
+Learning how to create, view, and manipulate tabular data using Pandas DataFrames.
+
+Data Cleaning
+
+Learning how to identify and handle missing values, duplicates, and incorrect data formats.
+
+Filtering and Sorting
+
+Learning how to select specific rows and columns and arrange data in a meaningful order.
+
+Grouping and Aggregation
+
+Learning how to summarize data using functions such as count, sum, average, minimum, and maximum.
 ### 04_Data_Visualization
 
 Learning how to understand data visually:

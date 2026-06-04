@@ -63,12 +63,29 @@ Learning how to summarize data using functions such as count, sum, average, mini
 
 Learning how to understand data visually:
 
-* Matplotlib
-* Seaborn
-* Bar Charts
-* Line Charts
-* Histograms
-* Scatter Plots
+Matplotlib
+
+Learning to create basic charts and graphs using Matplotlib.
+
+Seaborn
+
+Learning to create attractive statistical visualizations using Seaborn.
+
+Bar Charts
+
+Comparing values across categories.
+
+Line Charts
+
+Showing trends and changes over time.
+
+Histograms
+
+Understanding the distribution of data.
+
+Scatter Plots
+
+Exploring relationships between two variables.
 
 
 

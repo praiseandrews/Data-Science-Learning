@@ -87,6 +87,41 @@ Scatter Plots
 
 Exploring relationships between two variables.
 
+## 05_House_Price_Prediction_Toy
+
+My first Machine Learning project using Linear Regression.
+
+### Objective
+
+Predict house prices based on house area.
+
+### Skills Learned
+
+- Data Loading with Pandas
+- Feature Selection
+- Train-Test Split
+- Linear Regression
+- Making Predictions
+- Basic Model Evaluation
+
+### Tools Used
+
+- Python
+- Pandas
+- Scikit-learn
+
+### Project Structure
+
+```text
+05_House_Price_Prediction_Toy/
+├── README.md
+└── house_price_prediction_toy.ipynb
+```
+
+### Expected Outcome
+
+Given the area of a house, the model predicts its estimated price.
+
 
 
 ## Goal

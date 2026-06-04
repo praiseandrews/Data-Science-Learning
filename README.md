@@ -22,12 +22,21 @@ Learning Python fundamentals:
 
 ### 02_NumPy_Practice
 
-Learning numerical computing with NumPy:
+Arrays
 
-* Arrays
-* Matrix Operations
-* Mathematical Functions
-* Statistical Calculations
+Learning how to store and work with multiple values efficiently using NumPy arrays.
+
+Matrix Operations
+
+Learning how to perform operations on rows and columns of data, such as addition, subtraction, and multiplication.
+
+Mathematical Functions
+
+Learning how to perform fast mathematical calculations on entire datasets.
+
+Statistical Calculations
+
+Learning how to calculate summary statistics such as mean, median, minimum, maximum, and standard deviation.
 
 ### 03_Pandas_Practice
 

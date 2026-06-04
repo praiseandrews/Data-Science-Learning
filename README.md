@@ -10,11 +10,15 @@ This repository contains the projects and exercises I complete while learning Da
 
 Learning Python fundamentals:
 
-* Variables and Data Types
-* Conditional Statements
-* Loops
-* Functions
-* Lists, Tuples, Dictionaries, and Sets
+- Variables and Data Types
+- Arithmetic Operators
+- Comparison Operators
+- Assignment Operators
+- Logical Operators
+- Conditional Statements
+- Loops
+- Functions
+- Lists, Tuples, Dictionaries, and Sets
 
 ### 02_NumPy_Practice
 

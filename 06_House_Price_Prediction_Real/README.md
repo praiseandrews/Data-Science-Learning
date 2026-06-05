@@ -4,6 +4,14 @@
 
 A real-world machine learning project using a housing dataset from Kaggle.
 
+## Dataset
+
+Source:
+Housing Prices Dataset from Kaggle
+
+Download the dataset from:
+https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+
 ## Skills Learned
 
 - Data Cleaning
